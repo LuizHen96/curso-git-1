@@ -11,5 +11,5 @@ O *markdon* transforma as marcações em html.
 Por exemplo: **#** se transforma em **hx**
 
 É possivel transformar textos em negrito e itálico utilizando * ou _
-* ou _ para itálico
-** ou __ para negrito
+1. * ou _ para itálico
+2. ** ou __ para negrito
