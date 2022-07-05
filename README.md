@@ -19,6 +19,14 @@ Por exemplo: **#** se transforma em **hx**
 
 ### Codigo 
 
-``` html
-<h1> Isso eh um teste <\h1>
+``` javascript
+function soma (a,b) {
+  return a + b;
+ }
 ```
+
+### Task List
+- [x] readme
+- [ ] html
+- [ ] css
+ 
