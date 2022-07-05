@@ -13,3 +13,12 @@ Por exemplo: **#** se transforma em **hx**
 É possivel transformar textos em negrito e itálico utilizando * ou _
 1. * ou _ para itálico
 2. ** ou __ para negrito
+
+### Imagem Externa
+![Dogue](https://cdn-icons-png.flaticon.com/512/91/91539.png)
+
+### Codigo 
+
+``` html
+<h1> Isso eh um teste <\h1>
+```
